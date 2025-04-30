@@ -22,15 +22,13 @@ The goal of this analysis is to uncover trends in order fulfillment, customer pu
 # Task 1: Order and Sales Analysis
 **Objective:In this task, I analyzed the order status and sales data to identify trends in order fulfillment and revenue generation.
 ## Steps Taken:
-1. **Order Status Analysis**:
-   - Analyzed the order status to identify any issues with order fulfillment.
-2. **Revenue Analysis**:
+   - Analyzed the order status to identify any issues with order fulfillmen
    - Analyzed the sales data to track revenue trends and identify growth patterns.
 
 
-# Task 2:Customer Analysis
+# Task 2: Customer Analysis
 **Objective:Analyzed customer behavior and spending patterns to identify trends, loyalty, and customer retention
-##Steps Taken:
+## Steps Taken:
 Conducted repeating orders analysis to track customer order frequency and time since last purchase.
 Performed customer segmentation based on recency (days since last order) and total spend.
 Analyzed sales trends over time to identify patterns in customer purchasing behavior.
@@ -40,7 +38,7 @@ Categorized customers into segments (Active, At Risk, Inactive) based on recency
 
 #Task 3: Payment Status Analysis
 **Objective:Analyzed payment status data to assess payment success, failure, and trends over time.
-##Steps Taken:
+## Steps Taken:
 Calculated total payment counts, including successful, failed, and pending payments.
 Analyzed monthly payment trends by status and method.
 Investigated payment success rates and failures.
@@ -48,7 +46,7 @@ Investigated payment success rates and failures.
 
 #Task 4: Order Details Report Analysis
 **Objective:Generated a detailed order report, analyzing order data, payment details, and trends over time.
-##Steps Taken:
+## Steps Taken:
 Extracted order details with respect to customer ID, order date, and order amount.
 Calculated the number of days since each order was placed.
 Joined customer orders with payment data to analyze payment-related details.
@@ -59,7 +57,7 @@ Calculated the total number of orders placed per year.
 
 #Task 5:Customer Retention Analysis:
 **Objective:Visualized customer retention by analyzing repeat purchases over time.
-##Steps Taken:
+## Steps Taken:
 Analyzed customer cohorts and tracked repeat purchases over subsequent months.
 Used Power BI to create visualizations showing retention trends by cohort and month.
 Created a dashboard to highlight customer retention metrics such as repeat purchase rate
