@@ -36,7 +36,7 @@ Summarized customer lifetime, order frequency, and total spend to calculate esti
 Categorized customers into segments (Active, At Risk, Inactive) based on recency, and into Loyalty segments (Loyal, Regular, Occasional) based on frequency of orders.
 
 
-#Task 3: Payment Status Analysis
+# Task 3: Payment Status Analysis
 **Objective:Analyzed payment status data to assess payment success, failure, and trends over time.
 ## Steps Taken:
 Calculated total payment counts, including successful, failed, and pending payments.
@@ -44,7 +44,7 @@ Analyzed monthly payment trends by status and method.
 Investigated payment success rates and failures.
 
 
-#Task 4: Order Details Report Analysis
+# Task 4: Order details Report Analysis
 **Objective:Generated a detailed order report, analyzing order data, payment details, and trends over time.
 ## Steps Taken:
 Extracted order details with respect to customer ID, order date, and order amount.
@@ -55,7 +55,7 @@ Analyzed payment counts and average payment amounts per order.
 Calculated the total number of orders placed per year.
 
 
-#Task 5:Customer Retention Analysis:
+# Task 5: Customer Retention Analysis
 **Objective:Visualized customer retention by analyzing repeat purchases over time.
 ## Steps Taken:
 Analyzed customer cohorts and tracked repeat purchases over subsequent months.
@@ -63,6 +63,6 @@ Used Power BI to create visualizations showing retention trends by cohort and mo
 Created a dashboard to highlight customer retention metrics such as repeat purchase rate
 
 
-#Conclusion:
+#Conclusion#
 In this analysis, I focused on understanding the key aspects of customer behavior, including order frequency, total spend, and customer loyalty. By analyzing the data, I was able to categorize customers based on their activity levels and spending habits, providing insights into customer retention and potential churn risks. The findings suggest that a significant portion of customers are active and loyal, but there are also opportunities to engage with at-risk and inactive customers. Additionally, the sales trends indicate a steady increase in customer purchases, highlighting positive growth. The Power BI visuals created for this analysis offer a clear and interactive way to track these trends and make data-driven decisions for improving customer retention strategies.
    
